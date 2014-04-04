@@ -14,7 +14,7 @@
 	que sean menores al promedio
 	
 	Codificar el main para usar estos métodos y mostrar por pantalla la sumatoria,
-	el promedio y los números mayores
+	el promedio y los números menores
 	
 2)	Crear una clase Ejercicio2, en la misma crear una variable de instancia palabras
 	que sea un array de strings de 5 posiciones con su getter y setter.
