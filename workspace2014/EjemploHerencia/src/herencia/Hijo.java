@@ -2,7 +2,7 @@ package herencia;
 
 public class Hijo extends Padre {
 
-	
+	///este está modificado 
 	public Hijo(){
 		this.setNombre("Hijo");
 	}
